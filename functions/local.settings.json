@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "AzureSignalRConnectionString": "Endpoint=https://signalr-dfoggi-demo.service.signalr.net;AccessKey=PaP6e7bSQDuJJptQG/ieiKluw8LnaavatgyjsQpHHMw=;Version=1.0;"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "http://localhost:3000",
+    "CORSCredentials": true
+  }
+}
